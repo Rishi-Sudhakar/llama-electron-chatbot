@@ -1,0 +1,17 @@
+{
+  "name": "llama-electron-chatbot",
+  "version": "1.0.0",
+  "description": "An Electron version of the llama chatbot from (chatbot_llama3)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
+
+
